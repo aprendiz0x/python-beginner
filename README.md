@@ -1,3 +1,39 @@
+# Português - Brasil
+# Projetos Python - Nível Iniciante
+
+> Projeto em Andamento.
+
+Este projeto foi desenvolvido em Python 3, portanto é necessário possuir o mesmo
+instalado em sua máquina caso queira rodá-lo.
+Todos os projetos deste repositórios serão baseados em Python 3.
+Para mais informações sobre o Python acesse o site oficial: https://www.python.org
+
+Versão: Python 3.11.2
+
+Bibliotecas usadas:
+* random
+
+Este repositório é baseado nos cursos da Alura - Python: Começando com a Linguagem.
+
+Este é um curso focado para iniciantes em programação Python e suas diferenças entre outras linguagens.
+
+# Jogo de Adivinhação
+
+- Primeiro commit efetuado no GitHub (através da Web), é o jogo de adivinhação.
+
+* Você tem 3 níveis diferentes para escolher, cada um deles te da uma determinada
+quantidade de tentativas para acertar o número que o programa gerou. Se você tentar
+selecionar um level que não existe ele vai retornar para que escolha um dos disponíveis.
+* Quando você executa uma tentativa que está fora do escopo dos números aplicadaos ele vai 
+retornar um erro sem que você perca uma chance.
+* O aviso sobre a sua derrota vai te falar se você perdeu por pontos ou por tentativas.
+
+A ideia é que o programa ofereça condições de acertar o número indicado, oferecendo 100 pontos iniciais
+e o número de tentativas equivalente à dificuldade escolhida. Para cada erro ele subtrai a diferença entre
+o seu valor inserido e o valor do número secreto. Se zerar os pontos você perde e se zerar as tentativas você
+também perde.
+
+# English (or maybe a try)
 # Python projects at the Beginner level
 
 > Project status: under development.
