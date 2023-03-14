@@ -20,8 +20,8 @@ It's a Beggining level course to learn about Python and the difference between o
 
 - First file uploaded is a Game, that you need to guess what number the computer set.
 
- (1) You got 3 different levels to choose. I've made some changes based on the original code to make it more improved: If you try to set a level that not exist, it will return you to choose again.
- (2) When you try the numbers, if you try some that is not on the range, it will alert you to choose a number in the range without lost a chance.
- (3) The advice about why you loose is changed to tell you if you lost by Try or lost all your Points.
+* You got 3 different levels to choose. I've made some changes based on the original code to make it more improved: If you try to set a level that not exist, it will return you to choose again.
+ * When you try the numbers, if you try some that is not on the range, it will alert you to choose a number in the range without lost a chance.
+ * The advice about why you loose is changed to tell you if you lost by Try or lost all your Points.
 
  The idea is: You start with the chances set by the different difficults and with 100 points. For each try you loose points if not right, and the subtraction is based on the distance of your option about the secret number.
