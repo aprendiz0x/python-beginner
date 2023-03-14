@@ -16,7 +16,7 @@ This Respository gonna be based on Alura Python Course "Python - Starting Langua
 
 It's a Beggining level course to learn about Python and the difference between other languages.
 
-#Guessing Game
+# Guessing Game
 
 - First file uploaded is a Game, that you need to guess what number the computer set.
 
