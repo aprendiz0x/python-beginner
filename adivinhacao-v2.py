@@ -1,3 +1,6 @@
+# Curso Alura de Python
+# Jogo de Adivinhação v.2
+
 #   Imports
 import random as rdm
 
