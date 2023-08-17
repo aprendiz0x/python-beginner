@@ -42,7 +42,6 @@ def jogar():
     # while (rodada <= total_de_tentativas):
 
     for rodada in range(1, total_de_tentativas + 1):
-        print(f'{numero_secreto}')
         print(f'Tentativa {rodada} de {total_de_tentativas}')
         chute = int(input(f'Chute um número de 1 a {numero_range}: '))
         
